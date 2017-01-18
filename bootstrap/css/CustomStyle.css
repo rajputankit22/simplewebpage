@@ -1,0 +1,19 @@
+.customDiv {
+
+	margin: 10px;
+	min-height: 10px;
+	background-color: silver;
+	text-align: center;
+	font-size: large;
+	padding: 5px;
+}
+.line_first {
+	          border-color: red;
+
+
+
+}
+.foot {
+	        font-size: 50px;
+					font-style: \oblique;
+}
